@@ -3,3 +3,4 @@ obj
 Properties
 .vs
 *.user
+wwwroot/node_modules
